@@ -234,6 +234,7 @@ require('lazy').setup({
   'tpope/vim-sleuth', -- Detect tabstop and shiftwidth automatically
 
   -- WARN: This are dani_iliut's custom plugins + settings:
+  -- this is a test for the GCM
   -- NOTE: harpoon plugin from ThePrimeagen
   {
     'ThePrimeagen/harpoon',
